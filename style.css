@@ -1,0 +1,117 @@
+body {
+
+    background-color: rgb(20, 20, 20);
+
+    color: white;
+
+    font-family: Arial;
+
+    text-align: center;
+
+    margin: 0;
+
+}
+
+.topo {
+
+    background-color: black;
+
+    padding: 20px;
+
+}
+
+.topo h1 {
+
+    color: red;
+
+}
+
+.topo a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 10px;
+
+}
+
+.banner {
+
+    background-color: rgb(40, 40, 40);
+
+    padding: 30px;
+
+}
+
+.banner h2 {
+
+    color: red;
+
+}
+
+.container {
+
+    width: 80%;
+
+    margin: auto;
+
+    background-color: rgb(30, 30, 30);
+
+    padding: 20px;
+
+    margin-top: 20px;
+
+    border-radius: 10px;
+
+}
+
+.card {
+
+    background-color: rgb(50, 50, 50);
+
+    padding: 20px;
+
+    margin: 20px;
+
+    border-radius: 10px;
+
+    transition: 0.3s;
+
+}
+
+.card:hover {
+
+    background-color: rgb(70, 70, 70);
+
+    transform: scale(1.03);
+
+}
+
+img {
+
+    border-radius: 10px;
+
+}
+
+video {
+
+    border-radius: 10px;
+
+}
+
+audio {
+
+    width: 250px;
+
+}
+
+.rodape {
+
+    background-color: black;
+
+    padding: 15px;
+
+    margin-top: 20px;
+
+}
